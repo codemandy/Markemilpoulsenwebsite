@@ -1,6 +1,6 @@
 {
-  "name": "11ty-no-style-please",
-  "description": "A template for a minimalistic blog",
+  "name": "Mark-Emil-Poulsen",
+  "description": "Mark Emil Poulsen Portfolio",
   "scripts": {
     "build": "npx @11ty/eleventy",
     "serve": "npx @11ty/eleventy --serve",
