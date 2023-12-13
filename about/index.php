@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1.0">
+
+	<title>Jan-Pieter Karper</title>
+
+	<meta name="description" content="graphic designer">
+
+	<link rel="icon" type="image/gif" href="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+
+	<link rel="stylesheet" type="text/css" href="../docs/design.css">
+
+	<script type="text/javascript" src="../docs/jquery-2.2.4.min.js"></script>
+	<script type="text/javascript" src="../docs/script.js"></script>
+</head>
+<body>
+
+<header>
+	<a href="../">Close</a>
+</header>
+
+<main>
+	<p class="about"><?php require 'content.html'; ?></p>
+</main>
+
+</body>
+</html>

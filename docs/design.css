@@ -1,0 +1,56 @@
+* {
+	font-size: inherit;
+	font-weight: inherit;
+	margin: 0;
+}
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+	margin: .5em;
+	font-family: 'helvetica neue', helvetica, arial, sans-serif;
+	font-size: 0.85rem;
+	line-height: 1.25em;
+}
+
+header {
+	margin-bottom: 2em;
+}
+
+a {
+	color: blue;
+}
+
+header a {
+	color: inherit;
+	text-decoration: inherit;
+}
+
+.aboutLink {
+	position: absolute;
+	top: .5rem;
+	right: .5rem;
+}
+
+.project:not(:last-of-type) {
+	margin-bottom: 2em;
+}
+
+.description {
+    max-width: 35em;
+    margin-top: .5em;
+	white-space: pre-wrap;
+}
+
+.about {
+	max-width: 35em;
+	white-space: pre-wrap;
+}
+
+img {
+	display: block;
+	max-width: 100%;
+	-moz-user-select: none;
+	-webkit-user-select: none;
+	user-select: none;
+}
