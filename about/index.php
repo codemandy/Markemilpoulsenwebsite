@@ -18,7 +18,7 @@
 <body>
 
 <header>
-	<a href="../">Close</a>
+	<a href="../">(back)</a>
 </header>
 
 <main>
