@@ -27,7 +27,7 @@ header a {
 }
 
 .aboutLink {
-	position: absolute;
+	position: fixed;
 	top: .5rem;
 	right: .5rem;
 }
@@ -37,8 +37,8 @@ header a {
 }
 
 .description {
-    max-width: 35em;
-    margin-top: .5em;
+ 	max-width: 35em;
+	margin-top: .5em;
 	white-space: pre-wrap;
 }
 
