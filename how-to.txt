@@ -31,7 +31,7 @@ UPLOAD WEBSITE ONLINE
 
 2. Generate an HTML "static" version of the website
 
--> create a local server by opening the terminal, type "php -t /Users/markemil/Documents/GitHub/Markemilpoulsenwebsite -S localhost:8000" and press Enter
+-> create a local server by opening the terminal, type "php -t /Users/markemilpoulsen/Documents/GitHub/Markemilpoulsenwebsite -S localhost:8000" and press Enter
 
 -> on the browser, go to http://localhost:8000, save the page content as index.html in the folder "Markemilpoulsenwebsite"
 

@@ -9,8 +9,8 @@ html { -webkit-text-size-adjust: 100%; }
 body {
 	margin: .5em;
 	font-family: 'helvetica neue', helvetica, arial, sans-serif;
-	font-size: 0.85rem;
-	line-height: 1.25em;
+	font-size: 0.90rem;
+	line-height: 1.22em;
 }
 
 header {
@@ -37,13 +37,13 @@ header a {
 }
 
 .description {
- 	max-width: 35em;
+ 	max-width: 45em;
 	margin-top: .5em;
 	white-space: pre-wrap;
 }
 
 .about {
-	max-width: 35em;
+	max-width: 45em;
 	white-space: pre-wrap;
 }
 

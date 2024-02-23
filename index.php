@@ -19,7 +19,7 @@
 
 	<header>
 		<h1>Mark Emil Poulsen</h1>
-		<p class="aboutLink"><a href="about">About</a></p>
+		<p class="aboutLink"><a href="about">about</a></p>
 	</header>
 
 	<main>
@@ -37,11 +37,11 @@
 				</div>
 
 				<p class="description"><?php echo $project->description; ?></p>
-				
+
 			</article>
 
 		<?php endforeach; ?>
-		
+
 	</main>
 
 </body>
