@@ -10,7 +10,7 @@ body {
 	margin: .5em;
 	font-family: 'helvetica neue', helvetica, arial, sans-serif;
 	font-size: 0.90rem;
-	line-height: 1.23em;
+	line-height: 1.22em;
 }
 
 header {
@@ -37,7 +37,7 @@ header a {
 }
 
 .description {
- 	max-width: 45em;
+ 	max-width: 50em;
 	margin-top: .5em;
 	white-space: pre-wrap;
 }
