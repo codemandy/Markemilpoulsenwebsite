@@ -10,7 +10,7 @@ body {
 	margin: .5em;
 	font-family: 'helvetica neue', helvetica, arial, sans-serif;
 	font-size: 0.90rem;
-	line-height: 1.23em;
+	line-height: 1.22em;
 }
 
 header {
@@ -19,15 +19,17 @@ header {
 
 a {
 	color: blue;
+	text-decoration: none;
 }
 
 header a {
-	color: inherit;
-	text-decoration: inherit;
+	color: blue;
+	text-decoration: none;
 }
 
 .aboutLink {
 	position: fixed;
+	color: blue;
 	top: .5rem;
 	right: .5rem;
 }
