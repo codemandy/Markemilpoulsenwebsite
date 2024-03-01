@@ -33,7 +33,7 @@ UPLOAD WEBSITE ONLINE
 
 -> create a local server by opening the terminal, type "php -t /Users/markemilpoulsen/Documents/GitHub/Markemilpoulsenwebsite -S localhost:8000" and press Enter
 
--> on the browser, go to http://localhost:8000, save the page content as index.html in the folder "Markemilpoulsenwebsite"
+-> on the browser, go to http://localhost:8000/index.php, save the page content as index.html in the folder "Markemilpoulsenwebsite"
 
 -> if you have made updates on the about page, save the "page source" of the about page as index.html in the folder "Markemilpoulsenwebsite/about"
 
