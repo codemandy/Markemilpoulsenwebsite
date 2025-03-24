@@ -19,7 +19,7 @@
 
 	<header>
 		<h1>Mark Emil Poulsen</h1>
-		<p class="aboutLink"><a href="about">about</a></p>
+		<p class="aboutLink"><a href="about">notes</a></p>
 	</header>
 
 	<main>
