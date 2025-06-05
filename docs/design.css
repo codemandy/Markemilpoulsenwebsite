@@ -9,8 +9,9 @@ html { -webkit-text-size-adjust: 100%; }
 body {
 	margin: .5em;
 	font-family: 'helvetica neue', helvetica, arial, sans-serif;
-	font-size: 0.90rem;
-	line-height: 1.22em;
+	font-size: 0.95rem;
+	letter-spacing: 0.03em;
+	line-height: 1.3em;
 }
 
 header {
