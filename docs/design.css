@@ -29,6 +29,7 @@ header a {
 }
 
 .aboutLink {
+	display: none;
 	position: fixed;
 	color: blue;
 	top: .5rem;
