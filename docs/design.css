@@ -29,7 +29,6 @@ header a {
 }
 
 .aboutLink {
-	display: none;
 	position: fixed;
 	color: blue;
 	top: .5rem;
@@ -47,7 +46,7 @@ header a {
 }
 
 .about {
-	display: none;
+	font-family: 'courier new', helvetica, arial, sans-serif;
 	max-width: 45em;
 	white-space: pre-wrap;
 }
